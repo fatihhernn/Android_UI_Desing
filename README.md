@@ -1,7 +1,7 @@
 
 
- &nbsp;📂  [``Login Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/activity_main.xml) 
- &nbsp;📂  [``Get Started Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/activity_main.xml) 
+ &nbsp;📂  [``Login Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/activity_main.xml) <br>
+ &nbsp;📂  [``Get Started Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/layout_login.xml) 
  
  <table>
   <tr>
@@ -11,7 +11,7 @@
   
   <tr>
     <td>
-            <img src="https://github.com/fatihhernn/Android_UI_Desing/blob/master/myProfile.jpg" width="200" height="400" alt=".netProject"><br>
+            <img src="https://github.com/fatihhernn/Android_UI_Desing/blob/master/myProfile.jpg" width="200" height="400" alt=".netProject">
           
    </td>
    <td>
