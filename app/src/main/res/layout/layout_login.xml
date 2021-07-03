@@ -10,16 +10,15 @@
 
 
     <com.mikhaellopez.circularimageview.CircularImageView
-        gra
+
         android:layout_marginLeft="5dp"
         android:id="@+id/facebookLogin"
         android:layout_width="280dp"
         android:layout_height="280dp"
         android:layout_weight="1"
         android:textAlignment="center"
-        app:civ_border_color="@color/colorPrimary"
-        app:civ_border_width="0.5dp"
-        app:srcCompat="@drawable/profilePic2" />
+
+        app:srcCompat="@drawable/getstartedprofilephoto" />
 
     <TextView
         android:layout_marginTop="40dp"
