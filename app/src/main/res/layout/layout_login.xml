@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#252529"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        gra
+        android:layout_marginLeft="5dp"
+        android:id="@+id/facebookLogin"
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        app:civ_border_color="@color/colorPrimary"
+        app:civ_border_width="0.5dp"
+        app:srcCompat="@drawable/profilePic2" />
+
+    <TextView
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Watch live streams and chat"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="32sp"/>
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Go live with a touch and share your passion with the world!"
+        android:textColor="#8A8A8F"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="15sp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:width="220dp"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Started"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:background="@drawable/button_desing"/>
+    
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:layout_width="40dp"
+            android:layout_height="4dp"
+            android:background="#fff" />
+        <View
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:layout_width="40dp"
+            android:layout_height="4dp"
+            android:background="#fff" />
+        <View
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:layout_width="40dp"
+            android:layout_height="4dp"
+            android:background="#fff" />
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
