@@ -1,6 +1,6 @@
 
 
- &nbsp;📂  [``Get Started Page UI Desing``](https://github.com/fatihhernn/ReCapProject/tree/master/Core/Aspects) 
+ &nbsp;📂  [``Login Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/activity_main.xml) 
  
  <table>
   <tr>
